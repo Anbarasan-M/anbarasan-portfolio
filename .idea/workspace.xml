@@ -4,44 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="69d5a93b-677b-4eb1-a721-4d9986fae691" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/anbarasan-portfolio.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/My_Info.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/credentials.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/10.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/11.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/12.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/13.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/14.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/15.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/16.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/17.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/18.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/19.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/20.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/6.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/7.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/8.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/9.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/anbarasan_resume.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/calc-image.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/calculator-image.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/photo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/quiz-image.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/Contact_Me.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/send_email.py" afterDir="false" />
+    <list default="true" id="69d5a93b-677b-4eb1-a721-4d9986fae691" name="Changes" comment="Final commit">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/My_Info.py" beforeDir="false" afterPath="$PROJECT_DIR$/My_Info.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -93,6 +58,19 @@
       <option name="presentableId" value="Default" />
       <updated>1708431302296</updated>
     </task>
+    <task id="LOCAL-00001" summary="Final commit">
+      <option name="closed" value="true" />
+      <created>1708511065664</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1708511065664</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Final commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Final commit" />
   </component>
 </project>

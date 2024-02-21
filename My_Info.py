@@ -6,7 +6,8 @@ st.set_page_config(layout="wide")
 col1, col2 = st.columns(2)
 
 with col1:
-    st.write("# <span style='color:black'>I'm Anbu</span>", unsafe_allow_html=True)
+    # st.write("# <span style='color:black'>I'm Anbu</span>", unsafe_allow_html=True)
+    st.header("I'm Anbu")
     st.image("images/photo.png", use_column_width=True)
 
 with col2:
@@ -15,7 +16,7 @@ with col2:
     st.write(" ")
     st.write(" ")
     st.write(" ")
-    st.write("## <span style='color:navy'>About me</span>", unsafe_allow_html=True)
+    st.write("## <span style='color:cyan'>About me</span>", unsafe_allow_html=True)
 
     content = """I'm a Motivated and innovative software professional dedicated to staying
 current with emerging technologies. Eager to deliver creative solutions and drive
@@ -26,7 +27,7 @@ organizational growth through continuous learning and contribution
             """
 
     st.write(content)
-    st.write("## <span style='color:navy'>Foundational Skills and Practical Experience</span>", unsafe_allow_html=True)
+    st.write("## <span style='color:cyan'>Foundational Skills and Practical Experience</span>", unsafe_allow_html=True)
     st.write("I have gained foundational experience in the mentioned skills by certifications and self learning,"
              " and I am eager to further develop and apply them in practical settings."
              " Below, I provide examples showcasing my early experiences and projects.")
