@@ -1,0 +1,8 @@
+title;description;url;image
+Todo App;A distraction-free web app to help you focus on creating and completing tasks.;https://webapp1-agygmn42zjd8duxito5pct.streamlit.app/;1.png
+PDF Templates;A script that generates PDF templates of multiple pages given some predefined guidelines.;https://github.com/Anbarasan-M/pdf-template;3.png
+PDF Invoices;A script that reads invoice records from Excel files and automatically generates PDF invoices.;https://github.com/Anbarasan-M/invoice-generation;4.png
+Weather Forecast;A data web app that visualizes the weather forecast for the next five days of any city.;https://pythonhow.https://weather-forecasting-app-l7bzl7v9fru8uzzfbpapvk.streamlit.app/;16.png
+Positive News Site;A website that gets data from a news API and uses sentiment analysis to publish only positive news.;https://github.com/Anbarasan-M/news-api-email;5.png
+Tour Scraper;A program that checks a music band's website and sends an email when there are new tours.;https://github.com/Anbarasan-M/web-scrapping;8.png
+
